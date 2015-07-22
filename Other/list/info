@@ -1,0 +1,4 @@
+Name: Kainan Wang
+ID: 584678770
+Email: sunnywkn@gmail.com
+Build command: g++ -o run -I ./ test.cpp

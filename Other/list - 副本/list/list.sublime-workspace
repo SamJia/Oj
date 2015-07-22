@@ -1,0 +1,635 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"push",
+				"push_front"
+			],
+			[
+				"lef",
+				"left_end"
+			],
+			[
+				"le",
+				"left_end"
+			],
+			[
+				"righ",
+				"right_begin"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"cu",
+				"current_"
+			],
+			[
+				"curr",
+				"current_"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"user",
+				"user_dis"
+			],
+			[
+				"min",
+				"min_com_dis"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"us",
+				"user_y"
+			],
+			[
+				"re",
+				"result_y"
+			],
+			[
+				"total",
+				"total_y"
+			],
+			[
+				"yea",
+				"year"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"pre",
+				"prev_"
+			],
+			[
+				"goo",
+				"goods_number"
+			],
+			[
+				"pa",
+				"passenger_number"
+			],
+			[
+				"pass",
+				"passenger"
+			],
+			[
+				"passen",
+				"passenger_wait_time"
+			],
+			[
+				"tmp",
+				"tmpNote"
+			],
+			[
+				"ne",
+				"next_"
+			],
+			[
+				"expa",
+				"expandable"
+			],
+			[
+				"max",
+				"max_length_"
+			],
+			[
+				"word",
+				"word_begin"
+			],
+			[
+				"exp",
+				"expandable"
+			],
+			[
+				"expan",
+				"expandable_"
+			],
+			[
+				"max_",
+				"max_length_"
+			],
+			[
+				"lis",
+				"list_length"
+			],
+			[
+				"tra",
+				"traverse_pos"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"data",
+				"data_"
+			],
+			[
+				"Comp",
+				"ComputeX"
+			],
+			[
+				"best",
+				"best_tao"
+			],
+			[
+				"Comput",
+				"ComputeJ"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"min_",
+				"min_avg"
+			],
+			[
+				"U",
+				"UpdateLanbuda"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ma",
+		"selected_items":
+		[
+			[
+				"ma",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"build with",
+				"Build With: selfc++ - Run"
+			],
+			[
+				"self",
+				"Build With: selfc++ - Run"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"LatexT",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"syntax la",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"latex",
+				"LaTeXing: Fill"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Sam/Lesson/Oj/Other/list/list.h",
+		"/D/Sam/Lesson/Oj/Other/list/list.cpp",
+		"/D/Sam/Lesson/Oj/Other/list/test.cpp",
+		"/D/Sam/Lesson/Oj/Other/list/info",
+		"/D/Sam/Lesson/Oj/Other/list/try.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/LinkList.h",
+		"/C/Users/雨葶/Documents/Tencent Files/591104747/FileRecv/Assignment-1/5110309046/list.h",
+		"/C/Users/雨葶/Documents/Tencent Files/591104747/FileRecv/Assignment-1/5110309046/list.cpp",
+		"/C/Users/雨葶/Documents/Tencent Files/591104747/FileRecv/Assignment-1/5110309046/test.cpp",
+		"/D/Downloads_D/Calculator/void.h",
+		"/D/Sam/Lesson/Oj/HihoCode/Program_Beauty/try.cpp",
+		"/D/Downloads_D/Calculator/functions.h",
+		"/D/Downloads_D/Calculator/request.cpp",
+		"/D/Downloads_D/Calculator/expression.cpp",
+		"/D/Downloads_D/Calculator/main.cpp",
+		"/D/Sam/Lesson/Oj/HihoCode/Program_Beauty/1.cpp",
+		"/D/Sam/Lesson/Oj/HihoCode/Program_Beauty/2.cpp",
+		"/D/Sam/Lesson/Oj/HihoCode/Program_Beauty/3.cpp",
+		"/C/Users/雨葶/Documents/Tencent Files/591104747/FileRecv/Assignment-1/5110309046/info",
+		"/D/Downloads_D/Calculator/get_expression.h",
+		"/D/Downloads_D/Calculator/get_expression.cpp",
+		"/D/Downloads_D/Calculator/number.h",
+		"/D/Downloads_D/Calculator/expression.h",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1045.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1044.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1043.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1041.cpp",
+		"/D/Sam/Home/20150406/m1.m",
+		"/D/Sam/Home/20150406/f1_3.m",
+		"/D/Sam/Home/20150406/f1_2.m",
+		"/D/Sam/Home/20150406/f1_1.m",
+		"/D/Sam/Home/20150406/f1_4.m",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/LinkList.cpp",
+		"/D/Sam/Kindle/Tools/PDF旋转/注册DLL.bat",
+		"/C/Users/雨葶/Documents/Tencent Files/591104747/FileRecv/第一次小组作业Template/02 Define/Requirement Define/Use-case Model and Specification/usecase.mdl",
+		"/D/Sam/Lesson/Computer_Introductury/alice_words.py",
+		"/D/Sam/Home/20150406/m4.m",
+		"/D/Sam/Home/20150406/f4_3.m",
+		"/D/Sam/Home/20150406/f4_2.m",
+		"/D/Sam/Home/20150406/f4_1.m",
+		"/D/Sam/Home/20150406/m3.m",
+		"/D/Sam/Home/20150406/f4-3.m",
+		"/D/Sam/Home/20150406/f4-2.m",
+		"/D/Sam/Home/20150406/f4-1.m",
+		"/D/Sam/Home/20150406/f3_2.m",
+		"/D/Sam/Home/20150406/f3_3.m",
+		"/D/Sam/Home/20150406/f3_1.m",
+		"/D/Sam/Home/20150406/m2.m",
+		"/D/Sam/Home/20150406/f2.m",
+		"/D/Sam/Home/20150406/f3-2.m",
+		"/D/Sam/Home/20150406/f3-3.m",
+		"/D/Sam/Home/20150406/f1-1.m",
+		"/D/Sam/Home/20150406/f3-1.m",
+		"/D/Sam/Home/20150406/f1.m",
+		"/D/Sam/Home/20150406/f4.m",
+		"/D/Sam/Home/20150406/f3.m",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1207.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/LinkedList.h",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1051.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/SeqStack.h",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/try.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/2105_stack.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/SeqStack.exe",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/LinkedList.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/LinkedList.exe",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1036.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/2105.cpp",
+		"/C/Program Files/Sublime Text 3/1207.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1038.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1038_On.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1049_stack.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1206_stack.cpp",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/User/selfc++.sublime-build",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1206_stack.txt",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1049.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1203.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1204.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1206.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1032.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1202.cpp",
+		"/c/mingw/include/stdio.h",
+		"/c/mingw/lib/gcc/mingw32/4.8.1/include/c++/ostream",
+		"/D/Sam/Home/20150318/main.m",
+		"/D/Sam/Home/20150318/main.cpp",
+		"/D/Sam/Home/20150318/func_x.m",
+		"/D/Sam/Lab/weibo_lda_process/try1.py",
+		"/D/Sam/Home/20150318/try.cpp",
+		"/D/Sam/Kindle/Tools/敛财专家.mobi",
+		"/C/Users/雨葶/Downloads/Muzi.v.nadeji.2011.720p.BluRay.x264-DON/psig-muzi.v.nadeji.2011.dvdrip.xvid.chs.srt",
+		"/C/Users/雨葶/Downloads/Muzi.v.nadeji.2011.720p.BluRay.x264-DON/Muzi.v.nadeji.2011.1080p.BluRay.x264.DTS-WiKi.cht.srt",
+		"/D/Sam/Home/20150318/x.m",
+		"/D/Sam/Lab/weibo_lda_process/try2.py",
+		"/D/Sam/Lab/weibo_lda_process/1.txt",
+		"/D/Sam/Lab/weibo_lda_process/result.txt",
+		"/C/Users/雨葶/Documents/latex/未命名-2.tex",
+		"/D/Sam/Home/201502/main.cpp",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.default-settings",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/LaTeX.sublime-package",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-commands",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/C/Users/雨葶/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build.OLD",
+		"/D/Sam/Home/20150313/f2.m",
+		"/D/Sam/Home/20150313/f3.m",
+		"/D/Sam/Home/20150313/f4.m",
+		"/D/Sam/Home/20150313/f1.m",
+		"/D/Sam/Home/20150313/m2.m",
+		"/D/Sam/Home/20150313/m1.m",
+		"/D/Sam/Lab/weibo_lda_process/untitle2.m",
+		"/D/Sam/Home/201502/try.cpp",
+		"/D/Sam/Network/hosts",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1250.cpp",
+		"/C/cygwin64/home/雨葶/HotTopics/part-00001",
+		"/E/README",
+		"/D/Sam/Lesson/Intelligent_Speech/vad.gmm/wav/feats.sh",
+		"/D/Sam/Lesson/Intelligent_Speech/vad.gmm/wav/chen_0004092_A.txt",
+		"/C/cygwin64/home/雨葶/untitled1.m",
+		"/F/20150102/one_hop/main.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1003.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1.cpp",
+		"/D/Sam/Lesson/Oj/SJTU_OJ/1005.cpp",
+		"/C/Users/雨葶/Desktop/hosts"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cmp",
+			"end",
+			"begin",
+			"cout",
+			"right_p",
+			"right_begin",
+			"left_end",
+			"end",
+			"begin",
+			"left_end",
+			"mid",
+			"begin",
+			"++",
+			"operator",
+			"it2",
+			"current",
+			"current_",
+			"++",
+			"list<T>::iterator::",
+			"typename list<T>::",
+			"head_",
+			"iterator",
+			"head_",
+			";",
+			"template",
+			" = NULL",
+			"NULL",
+			"template",
+			"Node",
+			"struct",
+			"right_p_next_",
+			"from",
+			"prev_",
+			"next_",
+			"prev_",
+			"mid",
+			"begin",
+			"next_",
+			"head_",
+			"next_",
+			"prev_",
+			"head_",
+			"size_",
+			"list_length_",
+			"}",
+			"{",
+			"LinkList",
+			"list",
+			"(",
+			";",
+			"Apr",
+			"list",
+			"abs",
+			"x",
+			"abs",
+			"x",
+			"user",
+			"next",
+			"prev",
+			"string",
+			"{\n",
+			"void",
+			"prev",
+			"{\n",
+			"int",
+			"1",
+			"get_expression",
+			"gcd",
+			"modulo",
+			"remainder",
+			"quotient",
+			"remainder",
+			"End",
+			"next_",
+			"left",
+			"add",
+			"), ",
+			"prev",
+			"add",
+			"OutOfBound",
+			"T data",
+			";",
+			"void",
+			"LinkedList",
+			"end",
+			"1_1",
+			"100",
+			"40",
+			"v",
+			"4'",
+			"1-0",
+			"x(0)",
+			"0.5",
+			"v",
+			"40",
+			"x",
+			"1-",
+			",0.",
+			"2'",
+			"10",
+			"4'",
+			"50",
+			"1'",
+			",10",
+			",5",
+			"3]",
+			"f4",
+			"4",
+			"isEmpty",
+			"set_max_length",
+			"max_length()",
+			"max_length",
+			"is_empty",
+			"cars_on_ship",
+			"passenger",
+			"length",
+			"isEmpty",
+			"passenger",
+			">>",
+			" >>",
+			"passenger",
+			"i",
+			"(",
+			"void",
+			"queue",
+			"expandable",
+			"max_length",
+			"set_max"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "list.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
