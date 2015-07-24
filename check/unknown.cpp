@@ -1,44 +1,19 @@
 #include <cstdio>
-#define MAX_NUM 1000000000
-#define MAX_LENGTH 200
-struct Num
-{
-	Num(int number = 0){
-		number_[0] = number;
-		for(int i = 1; i < MAX_LENGTH; ++i)
-			number_[i] = 0;
-	}
-	int number_[MAX_LENGTH];
+#define SIZE 1000500
+#define UP 10007
 
-	Num &operator+=(Num &num2){
-		for(int i = 0, carry = 0; i < MAX_LENGTH; ++i){
-			number_[i] += carry + num2.number_[i];
-			carry = number_[i] / MAX_NUM;
-			number_[i] %= MAX_NUM;
-		}
-	}
-};
-
-Num *result;
-int total_numebr, step_a, step_b;
+int total_number, tmp;
+unsigned long long result = 0, count[SIZE] = {};
 
 int main(){
-	scanf("%d%d%d", &total_numebr, &step_a, &step_b);
-	if(step_a > step_b){
-		int tmp = step_a;
-		step_a = step_b;
-		step_b = tmp;
-	}
-	result = new Num[step_b];
-	result[0].number_[0] = 1;
-	for(int i = 0; i < total_numebr; ++i){
-		result[(i + step_a) % step_b] += result[i % step_b];
-		// for(int j = 0; j < step_b; ++j)
-		// 	printf("%d ", result[j].number_[0]);
-		// printf("\n");
-	}
-	int i = MAX_LENGTH - 1;
-	for(; i > 0 && !result[total_numebr % step_b].number_[i]; --i);
-	for(; i >= 0; --i)
-		printf("%d", result[total_numebr % step_b].number_[i]);
+    scanf("%d", &total_number);
+    for(int i = 0; i < total_number; ++i){
+        scanf("%d", &tmp);
+        ++count[tmp];
+    }
+    for(int i = 0; i < SIZE - 10; ++i){
+        result = (result + count[i] * (total_number - count[i])) % UP;
+        count[i+1] += count[i];
+    }
+    printf("%lld\n", result);
 }
