@@ -35,7 +35,7 @@ void Pattern(int number, int *tmp_result) {
 void Calculate(int number) {
 	int tmp[SIZE];
 	int pow10[] = {1, 10, 100, 1000};
-	for (int i = 0; i < 4; ++i) {
+	for (int i = 3; i >= 0; --i) {
 		Pattern(number / pow10[i], result + 2 * i);
 		number %= pow10[i];
 	}

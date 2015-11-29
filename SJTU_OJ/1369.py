@@ -1,4 +1,4 @@
-s = raw_input().split();
+s = raw_input().split()
 n = int(s[0])
 a = int(s[1])
 b = int(s[2])
